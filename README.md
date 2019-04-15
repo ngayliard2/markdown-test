@@ -33,7 +33,11 @@ The analysis is based on this [Kaggle dataset](https://www.kaggle.com/jsphyg/wea
 
 ### Data cleaning
 
+We had duplicate data, missing values, and impossible values that we had to rectify before proceeding to modeling.
+
 ### Exploratory data analysis
+
+We found some signficant correlations in our data that we had to explore further.
 
 ### Modeling
 
