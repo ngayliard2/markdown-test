@@ -27,7 +27,7 @@ Our goal is to predict whether or not it will rain tomorrow, in a given city in 
 
 ### Dataset
 
-The analysis is based on this **[Kaggle dataset](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package)** of daily weather data collected in *49 Australian cities* between 2010 and 2018. The dataset consists of 22 numerical and categorical features, and 1 target classification variable.
+The analysis is based on this [Kaggle dataset](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package) of **daily weather data** collected in 49 Australian cities between 2010 and 2018. *The dataset consists of 22 numerical and categorical features, and 1 target classification variable.*
 
 ## Analysis
 
