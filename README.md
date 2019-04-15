@@ -17,17 +17,13 @@ The goal of this analysis is to predict whether it will rain tomorrow in a given
     - [Modeling](#Modeling)
     - [Metrics](#Metrics)
 - [Next steps](#Next-steps)
-    
-
 
 
 ## Introduction
 
-Explanation of the problem, dataset, analysis, etc.
-
 ### Problem statement
 
-Our goal is to predict whether or not it will rain tomorrow, in a given city in Australia, based on today's weather. We used two separate modeling techniques (Decision Tree and Random Forest) to create these forecasts.
+Our goal is to predict whether or not it will rain tomorrow, in a given city in Australia, based on today's weather, using replicable machine learning techniques. We used two separate modeling techniques (Decision Tree and Random Forest) to create these forecasts.
 
 ### Dataset
 
@@ -35,14 +31,15 @@ The analysis is based on this [Kaggle dataset](https://www.kaggle.com/jsphyg/wea
 
 ## Analysis
 
+### Data cleaning
+
+### Exploratory data analysis
+
+### Modeling
+
+Our 
+
+### Metrics
 
 
-
-## Problem statement
-
-
-
-##
-
-
-## Contents
+## Next Steps
