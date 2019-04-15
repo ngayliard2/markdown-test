@@ -37,15 +37,10 @@ The analysis is based on this [Kaggle dataset](https://www.kaggle.com/jsphyg/wea
 
 ### Modeling
 
-```Import
-dd
-d```
+Our analysis used both Decision Tree and Random Forest classifier models.
 
-`Import
-d
-d`
-
-Our 
+`model = tree.DecisionTreeClassifier()
+model = ensemble.RandomForestClassifier()`
 
 ### Metrics
 
