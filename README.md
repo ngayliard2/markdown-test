@@ -54,6 +54,7 @@ def model():
 
 ### Metrics
 
+We create a confusion matrix to calculate classification metrics using the `sklearn.metrics.confusion_matrix()` method.
 
 ## Next Steps
 
