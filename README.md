@@ -40,6 +40,7 @@ The analysis is based on this [Kaggle dataset](https://www.kaggle.com/jsphyg/wea
 Our analysis used both Decision Tree and Random Forest classifier models.
 
 `model = tree.DecisionTreeClassifier()
+
 model = ensemble.RandomForestClassifier()`
 
 ### Metrics
