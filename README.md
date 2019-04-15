@@ -39,13 +39,17 @@ The analysis is based on this [Kaggle dataset](https://www.kaggle.com/jsphyg/wea
 
 Our analysis used both Decision Tree and Random Forest classifier models.
 
-```python
-
 We can create multiline Python code with syntax highlighting:
 
-model = tree.DecisionTreeClassifier()
+```python
 
-model = ensemble.RandomForestClassifier()
+def model():
+    for kind in models:
+        start = time.time()
+        if kind == 'Tree':
+            model = tree.DecisionTreeClassifier()
+        else : 
+            model = ensemble.RandomForestClassifier()
 ```
 
 ### Metrics
