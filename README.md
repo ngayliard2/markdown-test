@@ -14,7 +14,7 @@ The goal of this analysis is to predict whether it will rain tomorrow in a given
     - [Exploratory data analysis](#Exploratory-data-analysis)
     - [Modeling](#Modeling)
     - [Metrics](#Metrics)
-- [Next steps](#Next-steps
+- [Next steps](#Next-steps)
     
 
 
