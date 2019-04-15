@@ -6,8 +6,6 @@ The goal of this analysis is to predict whether it will rain tomorrow in a given
 
 ![Rainfall in Australia Map](rainfall_map.png)
 
-![Bran](https://i.imgur.com/3fkDIms.jpg)
-
 ## Contents
 
 - [Introduction](#Introduction)
@@ -45,3 +43,5 @@ Our
 
 
 ## Next Steps
+
+![Bran](https://i.imgur.com/3fkDIms.jpg)
