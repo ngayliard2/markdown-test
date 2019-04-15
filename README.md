@@ -4,6 +4,8 @@
 
 The goal of this analysis is to predict whether it will rain tomorrow in a given city in Australia, based on today's weather. We analyzed a Kaggle dataset of daily weather data collected in 49 Australian cities between 2010 and 2018. The final model had an 83.9% accuracy rate in predicting whether or not it would rain tomorrow vs. a baseline model accuracy of 77.8%.
 
+![Rainfall in Australia Map](rainfall_map.png)
+
 ## Contents
 
 - [Introduction](#Introduction)
